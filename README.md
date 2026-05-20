@@ -12,7 +12,7 @@ To play via GitHub Pages, visit the link provided on the submission page.
 - Click anywhere on the canvas to draw a random-coloured circle at that position.
 
 ## Assets
-| `assets/images/controller.png` | Image from Neon |
+| `smiling.webp` | Image from Neon |
 
 ## References
 
